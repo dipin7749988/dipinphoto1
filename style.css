@@ -44,7 +44,6 @@ body {
   border: solid 12px #FFFFFF;
 }
 
-
 .date {
   color: #263248;
   font-weight: bold;
@@ -73,11 +72,12 @@ a {
   cursor: pointer;
   text-decoration: none;
 }
-a: hover {
-  color: grey;
+a:hover {
+  color:  #2F343B;
   background-color: #FFFFFF;
   transition-duration: 1s;
 }
+
 footer {
   text-align: center;
   padding-top: 15px;
