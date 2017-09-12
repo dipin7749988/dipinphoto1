@@ -44,19 +44,6 @@ body {
   border: solid 12px #FFFFFF;
 }
 
-.a{
-  border: solid 1px;
-  display: inline-block;
-  padding: 5px 15px 5px 15px;
-  border-radius: 3px;
-  cursor: pointer;
-  text-decoration: none;
-}
-.a:hover {
-  color: grey;
-  background-color: #FFFFFF;
-  transition-duration: 1s;
-}
 
 .date {
   color: #263248;
@@ -78,6 +65,19 @@ body {
   padding-bottom: 10px;
 }
 
+a{
+  border: solid 1px;
+  display: inline-block;
+  padding: 5px 15px 5px 15px;
+  border-radius: 3px;
+  cursor: pointer;
+  text-decoration: none;
+}
+a:hover {
+  color: grey;
+  background-color: #FFFFFF;
+  transition-duration: 1s;
+}
 footer {
   text-align: center;
   padding-top: 15px;
