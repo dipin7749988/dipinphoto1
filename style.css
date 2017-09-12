@@ -44,7 +44,7 @@ body {
   border: solid 12px #FFFFFF;
 }
 
-a {
+.a{
   border: solid 1px;
   display: inline-block;
   padding: 5px 15px 5px 15px;
@@ -52,7 +52,7 @@ a {
   cursor: pointer;
   text-decoration: none;
 }
-a:hover {
+.a:hover {
   color: grey;
   background-color: #FFFFFF;
   transition-duration: 1s;
